@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a55ac7a-5456-47e9-9770-672f239336ed" name="Default" comment="first">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/32.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/6arapuu-1.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/6arapuu-2.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/6oTbl.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/6oe3anac.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/HAKOJIEHHUKU.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/IO6ka.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/KUCTU.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/Ko6ypa.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/M61GREN.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/Macka.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/OCHAIII,EHuE.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/TEJIO.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/google.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/gren_one.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/gren_two.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/line.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/player1.smdimport.5dd53afe-e750-4b47-a0ce-940ebe4e30fb.babylonbinarymeshdata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/vest1.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/vest3.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/tree/Tree.tga" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/boom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ground.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/heightMap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ico_star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ico_test.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/impact.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/qiang666.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sky15/sky_nx.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sky15/sky_ny.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sky15/sky_nz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sky15/sky_px.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sky15/sky_py.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sky15/sky_pz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sp1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sp2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/yun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/tps.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Babylon/babylon.3.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Babylon/babylon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Babylon/jquery-1.11.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/player1.babylon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/player1.babylon.manifest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/player_np/player1.binary.babylon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/model/tree/tree.babylon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sky15/skysa3.rwx" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/example/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="32" />
+    <option name="y" value="6" />
+    <option name="width" value="1370" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tps" type="462c0819:PsiDirectoryNode" />
+              <item name="Babylon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tps" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tps" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a55ac7a-5456-47e9-9770-672f239336ed" name="Default" comment="" />
+      <created>1516283982677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516283982677</updated>
+      <workItem from="1516283984220" duration="506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="875000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/example/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="65" column="44" lean-forward="true" selection-start-line="65" selection-start-column="44" selection-end-line="65" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
